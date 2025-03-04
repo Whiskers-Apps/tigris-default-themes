@@ -1,2 +1,8 @@
-# tigris-default-themes
-A collection of the two default themes for tigris
+# Tigris Default Themes
+
+## Dark
+
+![alt text](dark-preview.webp)
+
+## Light
+![alt text](light-preview.webp)
